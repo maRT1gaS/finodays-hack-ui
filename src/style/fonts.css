@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'FranklinGothicBook';
+    src: url('../assets/fonts/FranklinGothicBook/Regular/FranklinGothicBook.ttf');
+    src:
+        local('FranklinGothicBook'),
+        url('../assets/fonts/FranklinGothicBook/Regular/FranklinGothicBook.ttf') format('truetype');
+
+    font-weight: 400;
+    font-display: swap;
+
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranklinGothicDemiCond';
+    src: url('../assets/fonts/FranklinGothicDemiCond/Regular/FranklinGothicDemiCondRegular.ttf');
+    src:
+        local('FranklinGothicDemiCondRegular'),
+        url('../assets/fonts/FranklinGothicDemiCond/Regular/FranklinGothicDemiCondRegular.ttf') format('truetype');
+
+    font-weight: 400;
+    font-display: swap;
+
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FranklinGothicHeavy';
+    src: url('../assets/fonts/FranklinGothicHeavy/Regular/FranklinGothicHeavy.ttf');
+    src:
+        local('FranklinGothicHeavy'),
+        url('../assets/fonts/FranklinGothicHeavy/Regular/FranklinGothicHeavy.ttf') format('truetype');
+
+    font-weight: 400;
+    font-display: swap;
+
+    font-style: normal;
+}

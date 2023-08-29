@@ -1,0 +1,12 @@
+:root {
+    --white-color: #FFFFFF;
+    --white-transparent-color: rgba(255, 255, 255, 0.3);
+
+    --radical-red-color: #FF2079;
+
+    --stratos-color: #04005E;
+
+    --franklin-gothic-book: "FranklinGothicBook", sans-serif;
+    --franklin-gothic-demi-cond: "FranklinGothicDemiCond", sans-serif;
+    --franklin-gothic-heavy: "FranklinGothicHeavy", sans-serif;
+}

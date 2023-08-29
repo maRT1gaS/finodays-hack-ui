@@ -1,0 +1,68 @@
+button, input {
+	border: none;
+	background-color: #04005E;
+	cursor: pointer;
+}
+
+li {
+	list-style: none;
+}
+
+.App {
+  min-height: max-content;
+  width: 100%;
+  background: #04005E;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.wrap {
+	max-width: 1440px;
+	width: 80%;
+	margin: 0 auto;
+	height: 400px;
+	background: #04005E;
+	
+}
+
+.title-h1 {
+	color: var(--white-color);
+	font-family: var(--franklin-gothic-demi-cond);
+	font-size: 80px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	z-index: 1;
+}
+
+.title-h6 {
+	color: var(--white-color);
+	font-family: var(--franklin-gothic-heavy);
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 80%;
+}
+
+.btn-icon {
+	position: fixed;
+	top: 54px;
+	right: 41px;
+	z-index: 1;
+}
+
+.btn-icon svg:hover path{
+	stroke: #FF2079;
+}
+
+.container {
+	max-width: 1440px;
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
